@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3471c7c.css",
-    "main.js": "/static/js/main.0db5a447.js",
+    "main.css": "/static/css/main.c00e4d4d.css",
+    "main.js": "/static/js/main.51090706.js",
     "static/media/sketch2.png": "/static/media/sketch2.272fe92b23866d25fce9.png",
     "static/media/sketch3.png": "/static/media/sketch3.f60782c390a0de1e758b.png",
     "static/media/sketch1.png": "/static/media/sketch1.0b738db1142e80eee427.png",
+    "static/media/profile.jpg": "/static/media/profile.dfec2fc702c6bbd4f1af.jpg",
     "static/media/persona1.png": "/static/media/persona1.903660005705a66a383f.png",
     "static/media/uniqlo-example.png": "/static/media/uniqlo-example.5f64eaa7f36a03cdf47d.png",
     "static/media/persona2.png": "/static/media/persona2.0535f249899c2bfbdf1a.png",
@@ -32,11 +33,11 @@
     "static/media/envelope-regular.svg": "/static/media/envelope-regular.7237e68b9cc61c6a0be3cccbb522e4c6.svg",
     "static/media/medium-m-brands.svg": "/static/media/medium-m-brands.02a33dbfa05c09e1b633403d240cc26e.svg",
     "static/media/linkedin-in-brands.svg": "/static/media/linkedin-in-brands.8fb0cfb63873c62f499461773ca61a9f.svg",
-    "main.d3471c7c.css.map": "/static/css/main.d3471c7c.css.map",
-    "main.0db5a447.js.map": "/static/js/main.0db5a447.js.map"
+    "main.c00e4d4d.css.map": "/static/css/main.c00e4d4d.css.map",
+    "main.51090706.js.map": "/static/js/main.51090706.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3471c7c.css",
-    "static/js/main.0db5a447.js"
+    "static/css/main.c00e4d4d.css",
+    "static/js/main.51090706.js"
   ]
 }
