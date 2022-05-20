@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.001b4428.css",
-    "main.js": "/static/js/main.93b682fa.js",
+    "main.js": "/static/js/main.3258b595.js",
     "static/media/sketch2.png": "/static/media/sketch2.272fe92b23866d25fce9.png",
     "static/media/sketch3.png": "/static/media/sketch3.f60782c390a0de1e758b.png",
     "static/media/sketch1.png": "/static/media/sketch1.0b738db1142e80eee427.png",
     "static/media/solution-preview.png": "/static/media/solution-preview.5c57fe4bdb74ac14e340.png",
     "static/media/information-architecture.png": "/static/media/information-architecture.50998235eba508099db7.png",
     "static/media/profile.jpg": "/static/media/profile.dfec2fc702c6bbd4f1af.jpg",
+    "static/media/prototype.gif": "/static/media/prototype.d332fee6ae722051b71c.gif",
     "static/media/solution-volunteer-dashboard.gif": "/static/media/solution-volunteer-dashboard.c0277edd8161d6096c8a.gif",
     "static/media/solution-admin-manage-event.gif": "/static/media/solution-admin-manage-event.0a56f7ed721421afd8ac.gif",
     "static/media/solution-admin-volunteer-database.gif": "/static/media/solution-admin-volunteer-database.733bbdc655f9356a7022.gif",
@@ -49,6 +50,8 @@
     "static/media/declind-volunteer-hours.png": "/static/media/declind-volunteer-hours.a4136331aca55a76efff.png",
     "static/media/wireframe3.png": "/static/media/wireframe3.f235cfdedd1e3bc39d1a.png",
     "static/media/admin-flow.png": "/static/media/admin-flow.6c7d3b12a2b4190225aa.png",
+    "static/media/letter-sounds.png": "/static/media/letter-sounds.feda4fa49d5c24de0c83.png",
+    "static/media/letter-blends.png": "/static/media/letter-blends.df6faabf01ac424c439a.png",
     "static/media/solution3.png": "/static/media/solution3.9cd26801581350272f14.png",
     "static/media/wireframe-instructions1.png": "/static/media/wireframe-instructions1.d6970398f3b3eaefa663.png",
     "static/media/volunteer-flow.png": "/static/media/volunteer-flow.5422fe85d1b3fbaf7eb8.png",
@@ -56,9 +59,12 @@
     "static/media/wireframe2.png": "/static/media/wireframe2.d7aa5a3ec37c1f83780a.png",
     "static/media/branding.png": "/static/media/branding.aef9d5cbe68c7b237c53.png",
     "static/media/wireframe-homepage2.png": "/static/media/wireframe-homepage2.7035bc7e2ae7773ff4e0.png",
+    "static/media/lang-calculator2.png": "/static/media/lang-calculator2.880e33cd25769688da09.png",
     "static/media/sketch3.JPG": "/static/media/sketch3.f675680ae0eea9867528.JPG",
     "static/media/wireframe-drawing.png": "/static/media/wireframe-drawing.f291ac00503444aa0558.png",
+    "static/media/lang-calculator1.png": "/static/media/lang-calculator1.1973e0f22e212f3e253c.png",
     "static/media/design-system.png": "/static/media/design-system.3cc4830feb376c631f73.png",
+    "static/media/lang-practice.png": "/static/media/lang-practice.40a2b60b95bb1a9887cf.png",
     "static/media/sketch2.JPG": "/static/media/sketch2.c840e1cec7000a6b5492.JPG",
     "static/media/sketch1.JPG": "/static/media/sketch1.99186438198e4bd91c06.JPG",
     "static/media/wireframe-post.png": "/static/media/wireframe-post.97cebf22f9c2abba825d.png",
@@ -75,10 +81,10 @@
     "static/media/medium-m-brands.svg": "/static/media/medium-m-brands.02a33dbfa05c09e1b633403d240cc26e.svg",
     "static/media/linkedin-in-brands.svg": "/static/media/linkedin-in-brands.8fb0cfb63873c62f499461773ca61a9f.svg",
     "main.001b4428.css.map": "/static/css/main.001b4428.css.map",
-    "main.93b682fa.js.map": "/static/js/main.93b682fa.js.map"
+    "main.3258b595.js.map": "/static/js/main.3258b595.js.map"
   },
   "entrypoints": [
     "static/css/main.001b4428.css",
-    "static/js/main.93b682fa.js"
+    "static/js/main.3258b595.js"
   ]
 }
